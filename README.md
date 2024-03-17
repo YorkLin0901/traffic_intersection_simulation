@@ -21,7 +21,7 @@ The project is split into two phases:
 - `SortedListClass.h`, `SortedListClass.inl`
 - `constants.h`
 - `random.cpp`, `random.h`
-- `simulation.cpp`
+- `project5.cpp`
 - `Makefile`
 - Sample output: `typescript`
 
